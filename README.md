@@ -12,7 +12,7 @@ Motivated DevOps Engineer with hands-on experience in building scalable cloud in
 - 🐳 Containerized applications using Docker
 - ☸️ Deployed workloads on Kubernetes (EKS)
 - 🐧 Strong Linux server administration experience
-- 📊 Monitoring using Prometheus, Grafana & CloudWatch
+- 📊 Monitoring using Datadog, Prometheus, Grafana & CloudWatch
 
 ---
 
