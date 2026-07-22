@@ -1,40 +1,64 @@
 <h1 align="center">Hi 👋, I'm Umadevi Kamuni</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</h3>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Linux</h3>
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on AWS Cloud & DevOps projects
-- ☁️ Skilled in AWS, Docker, Kubernetes, Terraform, Jenkins
-- 🌱 Currently learning Advanced Kubernetes & GitHub Actions
-- 📫 Reach me: kamuniumaramesh@gmail.com
+## 🚀 About Me
+Motivated DevOps Engineer with hands-on experience in building scalable cloud infrastructure and automated deployment pipelines using modern DevOps tools and AWS services.
+
+- ☁️ Experience designing secure AWS cloud infrastructure
+- 🔧 Skilled in Infrastructure as Code using Terraform
+- 🚀 Building end-to-end CI/CD pipelines using Jenkins
+- 🐳 Containerized applications using Docker
+- ☸️ Deployed workloads on Kubernetes (EKS)
+- 🐧 Strong Linux server administration experience
+- 📊 Monitoring using Prometheus, Grafana & CloudWatch
 
 ---
 
-### 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🛠️ Tech Stack
+### ☁️ Cloud Platform
+AWS (EC2, S3, IAM, VPC, RDS, EKS, EBS, EFS, CloudFront, Route53, Lambda)
+
+### ⚙️ DevOps Tools
+Docker | Kubernetes | Jenkins | Terraform | Git | GitHub
+
+### 🐧 Operating Systems
+Ubuntu | Amazon Linux
+
+### 📊 Monitoring & Security
+Prometheus | Grafana | AWS CloudWatch | SonarQube | Trivy
+
+### 💻 Programming
+Python
 
 ---
 
-### 📌 Featured Projects
-- 🔹 [3-Tier Web Architecture Project](https://github.com/uma-kamuni/3_tier_web_architecture_project.git)
-- 🔹 [EasyCRUD - Updated](https://github.com/uma-kamuni/EasyCRUD-Updated-df.git)
+## 📌 Featured Projects
+### 🔹 Three-Tier Web Architecture Project
+- Designed secure VPC with public & private subnets
+- Deployed application across multiple tiers for scalability
+- Implemented best practices for security and high availability
+- 🔗 [View Project](https://github.com/uma-kamuni/3_tier_web_architecture_project.git)
+
+### 🔹 EasyCRUD - Updated
+- Built and deployed a CRUD-based application
+- Automated build and deployment workflow
+- Focused on clean, maintainable architecture
+- 🔗 [View Project](https://github.com/uma-kamuni/EasyCRUD-Updated-df.git)
 
 ---
 
-### 📊 GitHub Stats
-![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=uma-kamuni&show_icons=true&theme=radical)
+## 📈 Currently Learning
+- Advanced Kubernetes Deployment Strategies
+- Terraform Modules & Remote Backend
+- GitHub Actions CI/CD Automation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uma-kamuni&layout=compact&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uma-kamuni&theme=radical)
+## 📫 Connect With Me
+📧 Email: kamuniumaramesh@gmail.com  
+💻 GitHub: https://github.com/uma-kamuni
 
 ---
 
