@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umadevi Kamuni</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Linux</h3>
+
+<p align="center">
+  <a href="https://github.com/uma-kamuni">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Linux+%7C+Docker" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -37,8 +42,9 @@ Python
 ## 📌 Featured Projects
 ### 🔹 Three-Tier Web Architecture Project
 - Designed secure VPC with public & private subnets
-- Deployed application across multiple tiers for scalability
-- Implemented best practices for security and high availability
+- Deployed EC2 instances behind Application Load Balancer
+- Configured Auto Scaling for high availability
+- Implemented RDS MySQL in private subnet
 - 🔗 [View Project](https://github.com/uma-kamuni/3_tier_web_architecture_project.git)
 
 ### 🔹 EasyCRUD - Updated
@@ -50,8 +56,7 @@ Python
 ---
 
 ## 📈 Currently Learning
-- Advanced Kubernetes Deployment Strategies
-- Terraform Modules & Remote Backend
+- Generative AI Tools for Cloud & DevOps
 - GitHub Actions CI/CD Automation
 
 ---
