@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-Motivated DevOps Engineer with hands-on experience in building scalable cloud infrastructure and automated deployment pipelines using modern DevOps tools and AWS services.
+I'm a DevOps Engineer with hands-on experience in building scalable cloud infrastructure and automated deployment pipelines using modern DevOps tools and AWS services.
 
 - ☁️ Experience designing secure AWS cloud infrastructure
 - 🔧 Skilled in Infrastructure as Code using Terraform
@@ -22,6 +22,9 @@ Motivated DevOps Engineer with hands-on experience in building scalable cloud in
 - ☸️ Deployed workloads on Kubernetes (EKS)
 - 🐧 Strong Linux server administration experience
 - 📊 Monitoring using Datadog, Prometheus, Grafana & CloudWatch
+### 📈 Currently Learning
+- Generative AI Tools for Cloud & DevOps
+- GitHub Actions CI/CD Automation
 
 ---
 
@@ -84,12 +87,6 @@ Motivated DevOps Engineer with hands-on experience in building scalable cloud in
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uma-kamuni&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
-
----
-
-### 📈 Currently Learning
-- Generative AI Tools for Cloud & DevOps
-- GitHub Actions CI/CD Automation
 
 ---
 
