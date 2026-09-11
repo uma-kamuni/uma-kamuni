@@ -23,7 +23,7 @@ I'm a DevOps Engineer with hands-on experience in building scalable cloud infras
 - 🐧 Strong Linux server administration experience
 - 📊 Monitoring using Datadog, Prometheus, Grafana & CloudWatch
 ### 📈 Currently Learning
-- Generative AI Tools for Cloud & DevOps
+- ArgoCD
 - GitHub Actions CI/CD Automation
 
 ---
